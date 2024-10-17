@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.special{
+    color: lightblue;
+}
+
+.featuresBox{
+    width: 33%;
+    
+}
